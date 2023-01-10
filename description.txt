@@ -1,0 +1,9 @@
+
+"""
+1. Doing changes in local machine :-
+    git add .
+    git commit -m"changes done"
+    git pull
+    git push
+
+"""
